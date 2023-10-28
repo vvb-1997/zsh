@@ -1,0 +1,4 @@
+https://github.com/christianlempa/videos/tree/main/windows-terminal-powerlevel10k
+
+https://dev.to/abdfnx/oh-my-zsh-powerlevel10k-cool-terminal-1no0
+
